@@ -1,5 +1,5 @@
 # EXPERIMENT:03  Implement an application that uses Intent(Implicit) using Android Studio.
-## DATE: 23/03/3035
+## DATE: 21/03/2025
 
 ## AIM:
 
